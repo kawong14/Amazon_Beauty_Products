@@ -1,6 +1,6 @@
 # Amazon Beauty Products
 
-## KeyProblems / Issues: 
+## Key Problems / Issues: 
 As a beauty retailer on Amazon, you want to determine if there is an optimal way you can recommend products to customers
 
 ## Neural Network: 
